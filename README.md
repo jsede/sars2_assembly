@@ -1,4 +1,4 @@
-#SARS-CoV-2 de novo assembly
+# SARS-CoV-2 de novo assembly
 
 This is a work-in-progress but aims to provide a simple SARS-CoV-2 denovo assembly pipeline using commonly available tools. For now, I provide the script I have been running in my local environment to assemble complete genome libraries made using the following protocol:
 
