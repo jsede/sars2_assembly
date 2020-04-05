@@ -1,0 +1,52 @@
+##gff-version 3
+##source-version geneious 2020.1.1
+##sequence-region	NC_045512	1	29903
+NC_045512	Geneious	source	1	29903	.	+	.	Name=source Severe acute respiratory syndrome coronavirus 2
+NC_045512	Geneious	five_prime_UTR	1	265	.	+	.	
+NC_045512	Geneious	gene	266	21555	.	+	.	Name=orf1ab gene
+NC_045512	Geneious	CDS	266	13468	.	+	0	Name=orf1ab CDS;ID=lfkrLwy1MFQtFtkKbCr1niB1lDA.1586046563944.0
+NC_045512	Geneious	CDS	13468	21555	.	+	0	Name=orf1ab CDS;ID=lfkrLwy1MFQtFtkKbCr1niB1lDA.1586046563944.0
+NC_045512	Geneious	mat_peptide	266	805	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	806	2719	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	2720	8554	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	8555	10054	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	10055	10972	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	10973	11842	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	11843	12091	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	12092	12685	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	12686	13024	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	13025	13441	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	13442	13468	.	+	.	Name=orf1ab peptide;ID=lfkrLwy1MFQtFtkKbCr1niB1lDA.1586046563950.1
+NC_045512	Geneious	mat_peptide	13468	16236	.	+	.	Name=orf1ab peptide;ID=lfkrLwy1MFQtFtkKbCr1niB1lDA.1586046563950.1
+NC_045512	Geneious	mat_peptide	16237	18039	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	18040	19620	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	19621	20658	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	mat_peptide	20659	21552	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	CDS	266	13483	.	+	0	Name=orf1ab CDS
+NC_045512	Geneious	mat_peptide	13442	13480	.	+	.	Name=orf1ab peptide
+NC_045512	Geneious	stem_loop	13476	13503	.	+	.	Name=orf1ab stem loop
+NC_045512	Geneious	stem_loop	13488	13542	.	+	.	Name=orf1ab stem loop
+NC_045512	Geneious	gene	21563	25384	.	+	.	Name=S gene
+NC_045512	Geneious	CDS	21563	25384	.	+	0	Name=S CDS
+NC_045512	Geneious	gene	25393	26220	.	+	.	Name=ORF3a gene
+NC_045512	Geneious	CDS	25393	26220	.	+	0	Name=ORF3a CDS
+NC_045512	Geneious	gene	26245	26472	.	+	.	Name=E gene
+NC_045512	Geneious	CDS	26245	26472	.	+	0	Name=E CDS
+NC_045512	Geneious	gene	26523	27191	.	+	.	Name=M gene
+NC_045512	Geneious	CDS	26523	27191	.	+	0	Name=M CDS
+NC_045512	Geneious	gene	27202	27387	.	+	.	Name=ORF6 gene
+NC_045512	Geneious	CDS	27202	27387	.	+	0	Name=ORF6 CDS
+NC_045512	Geneious	gene	27394	27759	.	+	.	Name=ORF7a gene
+NC_045512	Geneious	CDS	27394	27759	.	+	0	Name=ORF7a CDS
+NC_045512	Geneious	gene	27756	27887	.	+	.	Name=ORF7b gene
+NC_045512	Geneious	CDS	27756	27887	.	+	0	Name=ORF7b CDS
+NC_045512	Geneious	gene	27894	28259	.	+	.	Name=ORF8 gene
+NC_045512	Geneious	CDS	27894	28259	.	+	0	Name=ORF8 CDS
+NC_045512	Geneious	gene	28274	29533	.	+	.	Name=N gene
+NC_045512	Geneious	CDS	28274	29533	.	+	0	Name=N CDS
+NC_045512	Geneious	gene	29558	29674	.	+	.	Name=ORF10 gene
+NC_045512	Geneious	CDS	29558	29674	.	+	0	Name=ORF10 CDS
+NC_045512	Geneious	stem_loop	29609	29644	.	+	.	Name=ORF10 stem loop
+NC_045512	Geneious	stem_loop	29629	29657	.	+	.	Name=ORF10 stem loop
+NC_045512	Geneious	three_prime_UTR	29675	29903	.	+	.	
+NC_045512	Geneious	stem_loop	29728	29768	.	+	.	Name=stem loop
